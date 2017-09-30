@@ -1,0 +1,2 @@
+# SendWeatherInfoToWechatFriends
+SendWeatherInfoToWechatFriends
