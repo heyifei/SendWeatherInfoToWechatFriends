@@ -6,7 +6,7 @@
 @author: heyifei
 @email:heyifei88@foxmail.com
 @license: Apac_he Licence 
-@file: sendweathertofriedns.py
+@file: sendweathertofriends.py
 @time: 2017/9/2 22:07
 """
 
